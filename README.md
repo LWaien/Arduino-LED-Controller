@@ -6,12 +6,13 @@ was very dark. This prompted me to buy led strips online and connect the adapter
 slots on the arduino UNO. I then wrote a script that allowed me to control the RGB values of the strip 
 using the FASTLED library. Values can be changed by altering the RGB ranges (0-255) of the led[i] variable.
 
-
-
-
-
-
+![](images/IMG-1124%20(1).jpg)
+![](images/IMG-1126.jpg)
+![](images/IMG-1127.jpg)
 
 
 
 I currently have it set to CRGB(255,255,255) which is the sum of all colors which of course is white. 
+
+
+![](images/IMG-1128.jpg)
